@@ -1,1 +1,2 @@
 Getting to check the gitignore feature 
+Adding something in the about.txt and see wether it is commited to main or not
